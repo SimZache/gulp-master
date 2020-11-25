@@ -1,0 +1,14 @@
+{
+    "presets": [
+        [
+            "env",
+            {
+                "target": {
+                    "browsers": "> 5%"
+                },
+                "modules": false
+            }
+        ],
+        "stage-2"
+    ]
+}
